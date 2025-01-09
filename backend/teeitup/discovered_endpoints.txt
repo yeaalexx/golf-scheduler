@@ -1,0 +1,11 @@
+GET https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Merriweather:wght@400;700;900&family=Open+Sans:wght@300..800&family=Oswald:wght@200..700&family=Roboto:wght@400;500;700;900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap
+GET https://fonts.googleapis.com/icon?family=Material+Icons
+GET https://phx-api-be-east-1b.kenna.io/settings/alias?subdomain=somerset-group-v2
+GET https://somerset-group-v2.book.teeitup.com/
+GET https://somerset-group-v2.book.teeitup.com/cdn-cgi/challenge-platform/scripts/jsd/main.js
+GET https://somerset-group-v2.book.teeitup.com/public/app-container.min.css
+GET https://somerset-group-v2.book.teeitup.com/public/app-container.min.js
+GET https://somerset-group-v2.book.teeitup.com/public/images/favicon.ico
+GET https://www.googletagmanager.com/gtag/js?id=G-8K9RPGM6TY&l=dataLayer&cx=c&gtm=45He5170v9199481449za200
+POST https://www.google-analytics.com/g/collect?v=2&tid=G-8K9RPGM6TY&gtm=45je5170v9199493789z89199481449za200zb9199481449&_p=1736458201786&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101925629~102067555~102067808~102081485~102198178&cid=1839010873.1736458202&ul=en-us&sr=2560x1440&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B131.0.6778.205%7CChromium%3B131.0.6778.205%7CNot_A%2520Brand%3B24.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&sid=1736458202&sct=1&seg=0&dl=https%3A%2F%2Fsomerset-group-v2.book.teeitup.com%2F&dt=Tee%20Times&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=684
+POST https://www.google-analytics.com/g/collect?v=2&tid=G-8K9RPGM6TY&gtm=45je5170v9199493789z89199481449za200zb9199481449&_p=1736458201786&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101925629~102067555~102067808~102081485~102198178&cid=1839010873.1736458202&ul=en-us&sr=2560x1440&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B131.0.6778.205%7CChromium%3B131.0.6778.205%7CNot_A%2520Brand%3B24.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=2&sid=1736458202&sct=1&seg=0&dl=https%3A%2F%2Fsomerset-group-v2.book.teeitup.com%2F&dt=Tee%20Times&en=gtm.js&ep.url=https%3A%2F%2Fsomerset-group-v2.book.teeitup.com%2F&_et=20&tfd=718

@@ -1,0 +1,177 @@
+[
+  {
+    "method": "GET",
+    "url": "https://phx-api-be-east-1b.kenna.io/settings/alias?subdomain=somerset-group-v2",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "Referer": "https://somerset-group-v2.book.teeitup.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "body": null
+  },
+  {
+    "method": "OPTIONS",
+    "url": "https://phx-api-be-east-1b.kenna.io/settings",
+    "headers": {
+      "Accept": "*/*",
+      "Access-Control-Request-Headers": "x-be-alias",
+      "Access-Control-Request-Method": "GET",
+      "Origin": "https://somerset-group-v2.book.teeitup.com",
+      "Sec-Fetch-Mode": "cors",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    },
+    "body": null
+  },
+  {
+    "method": "OPTIONS",
+    "url": "https://phx-api-be-east-1b.kenna.io/facilities",
+    "headers": {
+      "Accept": "*/*",
+      "Access-Control-Request-Headers": "x-be-alias",
+      "Access-Control-Request-Method": "GET",
+      "Origin": "https://somerset-group-v2.book.teeitup.com",
+      "Sec-Fetch-Mode": "cors",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    },
+    "body": null
+  },
+  {
+    "method": "GET",
+    "url": "https://phx-api-be-east-1b.kenna.io/settings",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "Referer": "https://somerset-group-v2.book.teeitup.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "x-be-alias": "somerset-group-v2"
+    },
+    "body": null
+  },
+  {
+    "method": "GET",
+    "url": "https://phx-api-be-east-1b.kenna.io/facilities",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "Referer": "https://somerset-group-v2.book.teeitup.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "x-be-alias": "somerset-group-v2"
+    },
+    "body": null
+  },
+  {
+    "method": "OPTIONS",
+    "url": "https://phx-api-be-east-1b.kenna.io/shopping-cart",
+    "headers": {
+      "Accept": "*/*",
+      "Access-Control-Request-Headers": "x-be-alias",
+      "Access-Control-Request-Method": "POST",
+      "Origin": "https://somerset-group-v2.book.teeitup.com",
+      "Sec-Fetch-Mode": "cors",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    },
+    "body": null
+  },
+  {
+    "method": "POST",
+    "url": "https://phx-api-be-east-1b.kenna.io/shopping-cart",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "Referer": "https://somerset-group-v2.book.teeitup.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "x-be-alias": "somerset-group-v2"
+    },
+    "body": null
+  },
+  {
+    "method": "OPTIONS",
+    "url": "https://phx-api-be-east-1b.kenna.io/v2/tee-times?date=2025-01-09&facilityIds=7092",
+    "headers": {
+      "Accept": "*/*",
+      "Access-Control-Request-Headers": "x-be-alias",
+      "Access-Control-Request-Method": "GET",
+      "Origin": "https://somerset-group-v2.book.teeitup.com",
+      "Sec-Fetch-Mode": "cors",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    },
+    "body": null
+  },
+  {
+    "method": "GET",
+    "url": "https://phx-api-be-east-1b.kenna.io/v2/tee-times?date=2025-01-09&facilityIds=7092",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "Referer": "https://somerset-group-v2.book.teeitup.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "x-be-alias": "somerset-group-v2"
+    },
+    "body": null
+  },
+  {
+    "method": "GET",
+    "url": "https://phx-api-be-east-1b.kenna.io/course/54f14e110c8ad60378b04887/tee-time/locks?localDate=2025-01-09",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "Referer": "https://somerset-group-v2.book.teeitup.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "x-be-alias": "somerset-group-v2"
+    },
+    "body": null
+  },
+  {
+    "method": "OPTIONS",
+    "url": "https://phx-api-be-east-1b.kenna.io/course/54f14e110c8ad60378b04887/tee-time/locks?localDate=2025-01-09",
+    "headers": {
+      "Accept": "*/*",
+      "Access-Control-Request-Headers": "x-be-alias",
+      "Access-Control-Request-Method": "GET",
+      "Origin": "https://somerset-group-v2.book.teeitup.com",
+      "Sec-Fetch-Mode": "cors",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    },
+    "body": null
+  },
+  {
+    "method": "OPTIONS",
+    "url": "https://phx-api-be-east-1b.kenna.io/weather?gnFacilityIds[]=7092",
+    "headers": {
+      "Accept": "*/*",
+      "Access-Control-Request-Headers": "x-be-alias",
+      "Access-Control-Request-Method": "GET",
+      "Origin": "https://somerset-group-v2.book.teeitup.com",
+      "Sec-Fetch-Mode": "cors",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    },
+    "body": null
+  },
+  {
+    "method": "GET",
+    "url": "https://phx-api-be-east-1b.kenna.io/weather?gnFacilityIds[]=7092",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "Referer": "https://somerset-group-v2.book.teeitup.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "x-be-alias": "somerset-group-v2"
+    },
+    "body": null
+  }
+]
